@@ -2,8 +2,9 @@
 
 USE BUILDKITE OR JENKINS TO AUTOMATE THE ENTIRE CI/CD FLOW FOR THIS AND IF YOU CAN TRY TO DEPLOY ON KUBERNETES LOCALLY.
 
-## Depenedencies for this are
+## Depenedencies for this are (maven central repo)
 
 1. Maven
 2. RESTAssured
 3. TestNG
+4. json-simple
